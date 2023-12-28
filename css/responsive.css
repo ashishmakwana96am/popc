@@ -1,0 +1,500 @@
+@media(max-width:1199px) {
+
+    /* --seb header-- */
+    .sub-menu h4 {
+        font-size: 16px;
+    }
+
+    .sub-menu h4 span {
+        font-size: 18px;
+
+    }
+
+    .banner-heading h3 {
+        font-size: 18px;
+    }
+
+    .bg-img {
+        width: 90px;
+    }
+
+    .banner-heading h1 {
+        font-size: 50px;
+        font-weight: 800;
+        margin-bottom: 15px;
+    }
+
+    .banner-heading {
+        padding-top: 40px;
+    }
+
+    .grediun {
+        padding: 8px 40px;
+
+    }
+
+    .grediun-2 {
+        padding: 8px 40px;
+
+    }
+
+    .banner-form h3 {
+        font-size: 28px;
+        font-weight: 700;
+        margin-bottom: 5px;
+    }
+
+    .banner-form p {
+        margin-bottom: 18px;
+    }
+
+    .banner {
+        height: 110vh;
+    }
+
+    /* --sec-2-- */
+    .sec-2-heading {
+        margin-bottom: 20px;
+    }
+    .sec-2-heading h3 {
+        font-size: 26px;
+    }
+
+    .sec-2 {
+        padding: 90px 0;
+    }
+
+    .card-data h4 {
+        font-size: 24px;
+    }
+
+    .card-data p {
+        font-size: 14px;
+    }
+
+    .card-btn .btn {
+        padding: 10px 20px;
+    }
+
+    .card-btn .mt-5 {
+        margin-top: 20px !important;
+    }
+
+    .card-data {
+        height: 340px;
+    }
+
+    /* --sec-4-- */
+    .sec-4-content {
+        padding: 20px 50px;
+
+    }
+
+    .sec-4-content span {
+        font-size: 26px;
+    }
+   
+    /* --sec-5-- */
+    .sec-5{
+        padding: 60px 0;
+     
+    }
+    .w25{
+        width: 70%;
+    }
+    .pt0{
+        padding-top: 16px;
+    }
+    .sec-5-quot p{
+        font-size: 20px;
+    width: 100%;
+
+    }
+    .sec-5-quot h5{
+        font-size: 16px;
+    }
+    /* --sec-7-- */
+    .sec-7{
+        padding: 50px 0;
+        background-color: #000;
+    }
+    .sec-7{
+        padding: 100px 0;
+        background-color: #000;
+    }
+    .sec-7-info  h3{
+        font-size: 20px;
+    }
+    .sec-7-info  p{
+        font-size: 16px;
+    }
+
+    /* --footer-- */
+    .social li{
+        font-size: 16px;
+    }
+    .copy{
+        font-size: 16px;
+    }
+    .botoom p{
+        font-size: 16px;
+    }
+}
+
+@media(max-width:992px) {
+    /* --seb header-- */
+
+    .sub-menu h4 span {
+        font-size: 16px;
+
+    }
+
+    .bg-img {
+        width: 60px;
+    }
+
+    .navbar-brand img {
+        width: 100px;
+    }
+
+    .banner-heading h3 {
+        font-size: 16px;
+    }
+
+    .banner-heading h1 {
+        font-size: 38px;
+        margin-bottom: 10px;
+    }
+
+    .banner-heading {
+        padding-top: 30px;
+    }
+
+    .grediun {
+        padding: 8px 20px;
+        font-size: 14px;
+
+    }
+
+    .grediun-2 {
+        padding: 8px 20px;
+        font-size: 14px;
+
+    }
+
+    .navbar-brand img {
+        width: 90px;
+    }
+
+    .banner-heading p {
+        font-size: 16px;
+    }
+
+    .banner-form h3 {
+        font-size: 20px;
+        margin-bottom: 5px;
+    }
+
+    .banner-form p {
+        margin-bottom: 16px;
+    }
+
+    /* --sec-2--- */
+    /* .pt12{
+        margin-top: 20px;
+    } */
+    .sec-2-heading p {
+        font-size: 14px;
+        max-width: 80%;
+    }
+    .sec-2-heading h3 {
+        font-size: 24px;
+    }
+
+    .sec-2 {
+        padding: 70px 0;
+    }
+
+    .pt14 {
+        margin-top: 20px;
+    }
+
+    /* --sec-4-- */
+    .sec-4-content {
+        padding: 20px 5=30px;
+
+    }
+
+    .sec-4-content span {
+        font-size: 22px;
+    }
+        /* --sec-5-- */
+        .sec-5{
+            padding: 60px 0;
+        }
+        .w25{
+            width: 70%;
+        }
+        .pt0{
+            padding-top: 0px;
+        }
+        .sec-p{
+            font-size: 16px;
+            line-height: 1.2;
+        }
+        .sec-5-quot p{
+            font-size: 18px;
+    
+        }
+        
+        .sec-5-quot h5{
+            font-size: 14px;
+        }
+        .sec-5-quot{
+            margin-top: 20px;
+        }
+        .w25{
+            width: 100%;
+        }
+.copy-right .row{
+    text-align: center;
+}
+.yelo{
+    width: 60px;
+    
+}
+.cross{
+    width: 60px;
+    top: 81%;
+    right: 56%;
+}
+.blue-img{
+    top: 35%;
+    left: 2%;
+}
+.yellow-img{
+    bottom: 19%;
+    right: 1%;
+}
+}
+
+@media(max-width:768px) {
+    /* --sub header-- */
+
+    .banner-heading h1 {
+        font-size: 30px;
+        margin-bottom: 8px;
+    }
+
+    .banner-heading {
+        padding-top: 20px;
+    }
+
+    .banner-heading p {
+        margin-bottom: 10px;
+    }
+
+    .grediun {
+        padding: 8px 15px;
+        font-size: 12px;
+
+    }
+
+    .grediun-2 {
+        padding: 8px 15px;
+        font-size: 12px;
+
+    }
+
+    .banner-heading {
+        margin-bottom: 28px;
+    }
+
+    .banner {
+        height: 150vh;
+    }
+
+    /* --sec-2-- */
+
+    .card-data h4 {
+        font-size: 18px;
+    }
+
+    .card-data p {
+        font-size: 12px;
+        font-weight: 500;
+    }
+
+    .card-btn .btn {
+        padding: 8px 10px;
+    }
+
+    .card-btn .mt-5 {
+        margin-top: 20px !important;
+    }
+
+    .card-data {
+        height: 340px;
+    }
+
+    .sec-2-heading p {
+        font-size: 14px;
+        max-width: 100%;
+    }
+    .sec-2-heading h3 {
+        font-size: 22px;
+    }
+
+    .sec-2 {
+        padding: 60px 0;
+    }
+
+    /* --sec-4-- */
+    .sec-4-content {
+        padding: 20px 25px;
+
+    }
+
+    .sec-4-content span {
+        font-size: 20px;
+    }
+    /* --sec-5-- */
+    .pt0{
+        padding-top: 0;
+        margin-bottom: 6px;
+    }
+    .sec-5-quot{
+        margin-top: 0;
+    }
+    .sec-5-quot p {
+        font-size: 16px;
+    }
+.sec-7-data{
+    margin-bottom: 30px;
+}
+.img-w12{
+    width: 150px;
+    object-fit: cover;
+}
+.yelo{
+    width: 70px;
+}
+.cross{
+    width: 60px;
+    top: 70%;
+    right: 56%;
+}
+.blue-img{
+    width: 70px;
+    top: 23%;
+    left: 2%;
+}
+.yellow-img{
+    width: 70px;
+    bottom: 10%;
+    right: 1%;
+}
+
+
+}
+
+@media(max-width:575px) {
+    /* --sub header-- */
+
+    .banner-heading h1 {
+        font-size: 26px;
+    }
+
+    .navbar-brand img {
+        width: 80px;
+    }
+
+    .banner-heading p {
+        font-size: 14px;
+    }
+
+    p {
+        font-size: 14px;
+    }
+
+    .banner {
+        height: 160vh;
+    }
+
+    .banner .ps-5 {
+        padding-left: 12px !important;
+    }
+
+    .pt13 {
+        margin-top: 20px;
+    }
+
+    .sec-2-heading p {
+        font-size: 12px;
+        max-width: 100%;
+    }
+    .sec-2-heading h3 {
+        font-size: 20px;
+    }
+
+    .sec-2 {
+        padding: 40px 0;
+    }
+
+    /* --sec-4-- */
+    .sec-4-content {
+        padding: 18px 22px;
+
+    }
+
+    .sec-4-content span {
+        font-size: 16px;
+    }
+    /* --sec-5-- */
+.sec-5{
+    height: 180vh;
+}
+.pt0{
+    padding-top: 20px;
+}
+.card-img img{
+    width: 100%;
+}
+.social{
+justify-content: space-between;
+}
+.social-bottom li{
+    font-size: 14px;
+}
+.copy{
+    font-size: 14px;
+}
+.copy-right h6{
+    font-size: 14px;
+}
+.bottom {
+    font-size: 14px;
+}
+.blue-img{
+    width: 40px;
+}
+.yellow-img{
+    width: 40px;
+}
+.yelo{
+    width: 40px;
+    top: -20px;
+}
+.cross{
+    top: 68%;
+    right: -3%;
+    width: 50px;
+}
+.sec-7{
+    padding: 50px 0;
+}
+.footer{
+    padding: 30px 0;
+}
+
+}
